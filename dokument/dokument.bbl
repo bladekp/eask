@@ -1,0 +1,35 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Slepian(Transactions AIEE Vol. 47 (1928) No. 4,
+  pp.~1398-1407.)]{slepian}
+J.~Slepian.
+\newblock \emph{Extinction of an {AC} arc.}
+\newblock Transactions AIEE Vol. 47 (1928) No. 4, pp.~1398-1407.
+
+\bibitem[Bronsztejn and Siemiendiajew(Warszawa 1999)]{bronsztejn}
+I.~N. Bronsztejn and K.~A. Siemiendiajew.
+\newblock \emph{Matematyka. Poradnik Encyklopedyczny.}
+\newblock Wydawnictwo Naukowe PWN, Warszawa 1999.
+
+\bibitem[Greenwood(John Wiley \& Sons, INC., 1991.)]{greenwood}
+A.~Greenwood.
+\newblock \emph{Electrical Transients in Power Systems.}
+\newblock John Wiley \& Sons, INC., 1991.
+
+\bibitem[Feynman et~al.(PWN, Warszawa, 1974.)Feynman, Leighton, and
+  Sands]{feynman}
+R.~P. Feynman, R.~B. Leighton, and M.~Sands.
+\newblock \emph{Feynmana wyk³ady z~fizyki.}
+\newblock PWN, Warszawa, 1974.
+
+\bibitem[Fichtenholz(PWN, Warszawa 1980.)]{fichtenholz}
+G.~M. Fichtenholz.
+\newblock \emph{Rachunek ró¿niczkowy i ca³kowy.}
+\newblock PWN, Warszawa 1980.
+
+\end{thebibliography}
